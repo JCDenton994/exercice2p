@@ -1,0 +1,6 @@
+ex02
+
+tres bien
+
+utiliser .gitignore
+
